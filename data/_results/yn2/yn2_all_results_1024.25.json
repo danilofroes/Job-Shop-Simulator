@@ -1,0 +1,16 @@
+{
+  "name": "yn2_x4",
+  "metaheuristic": "",
+  "best_cost": 1024.25,
+  "makespan": 1012,
+  "tardiness": 3118,
+  "iterations": 400,
+  "execution_time": 104.64824897050858,
+  "aggregate": {
+    "runs": 4,
+    "mean_cost": 1024.25,
+    "std_cost": 7.790218225441442,
+    "best_cost": 1012.0,
+    "worst_cost": 1031.0
+  }
+}

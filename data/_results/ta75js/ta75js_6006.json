@@ -1,0 +1,16 @@
+{
+  "name": "ta75js_x1",
+  "metaheuristic": "",
+  "best_cost": 6006.0,
+  "makespan": 6006,
+  "tardiness": 312820,
+  "iterations": 100,
+  "execution_time": 3875.394761800766,
+  "aggregate": {
+    "runs": 1,
+    "mean_cost": 6006.0,
+    "std_cost": 0.0,
+    "best_cost": 6006.0,
+    "worst_cost": 6006.0
+  }
+}

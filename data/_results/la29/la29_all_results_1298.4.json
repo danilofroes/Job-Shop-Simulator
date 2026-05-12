@@ -1,0 +1,16 @@
+{
+  "name": "la29_x5",
+  "metaheuristic": "",
+  "best_cost": 1298.4,
+  "makespan": 1295,
+  "tardiness": 9749,
+  "iterations": 5000,
+  "execution_time": 703.3847511768341,
+  "aggregate": {
+    "runs": 5,
+    "mean_cost": 1298.4,
+    "std_cost": 12.93986089569745,
+    "best_cost": 1284.0,
+    "worst_cost": 1320.0
+  }
+}

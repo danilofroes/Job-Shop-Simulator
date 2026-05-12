@@ -1,0 +1,16 @@
+{
+  "name": "ta32js_x5",
+  "metaheuristic": "",
+  "best_cost": 2181.2,
+  "makespan": 2167,
+  "tardiness": 23913,
+  "iterations": 500,
+  "execution_time": 190.7677478313446,
+  "aggregate": {
+    "runs": 5,
+    "mean_cost": 2181.2,
+    "std_cost": 8.588364221433556,
+    "best_cost": 2167.0,
+    "worst_cost": 2193.0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dmu21_x4",
+  "metaheuristic": "",
+  "best_cost": 5002.75,
+  "makespan": 4978,
+  "tardiness": 81401,
+  "iterations": 4000,
+  "execution_time": 3157.2183908820152,
+  "aggregate": {
+    "runs": 4,
+    "mean_cost": 5002.75,
+    "std_cost": 17.340343133859836,
+    "best_cost": 4978.0,
+    "worst_cost": 5020.0
+  }
+}

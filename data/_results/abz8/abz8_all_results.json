@@ -1,0 +1,16 @@
+{
+  "name": "bx8_x5",
+  "metaheuristic": "",
+  "best_cost": 758.4,
+  "makespan": 757,
+  "tardiness": 3556,
+  "iterations": 5000,
+  "execution_time": 872.3046893119812,
+  "aggregate": {
+    "runs": 5,
+    "mean_cost": 758.4,
+    "std_cost": 4.029888335921977,
+    "best_cost": 753.0,
+    "worst_cost": 764.0
+  }
+}

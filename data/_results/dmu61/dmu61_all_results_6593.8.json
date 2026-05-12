@@ -1,0 +1,16 @@
+{
+  "name": "dmu61_x5",
+  "metaheuristic": "",
+  "best_cost": 6593.8,
+  "makespan": 6506,
+  "tardiness": 121254,
+  "iterations": 500,
+  "execution_time": 433.7957541465759,
+  "aggregate": {
+    "runs": 5,
+    "mean_cost": 6593.8,
+    "std_cost": 46.74355570557294,
+    "best_cost": 6506.0,
+    "worst_cost": 6634.0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "swv07_x5",
+  "metaheuristic": "",
+  "best_cost": 1858.8,
+  "makespan": 1846,
+  "tardiness": 10959,
+  "iterations": 5000,
+  "execution_time": 1083.168671798706,
+  "aggregate": {
+    "runs": 5,
+    "mean_cost": 1858.8,
+    "std_cost": 9.325234581499814,
+    "best_cost": 1846.0,
+    "worst_cost": 1874.0
+  }
+}
